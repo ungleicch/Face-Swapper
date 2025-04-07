@@ -40,4 +40,4 @@ This program provides a face swapping feature using computer vision and machine 
 - The program uses a Tkinter interface for interaction and OpenCV for image processing.
 
 ## Author
-~cicx
+~ungleicch
